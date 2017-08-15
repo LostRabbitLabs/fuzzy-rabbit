@@ -1,6 +1,19 @@
 # fuzzy-rabbit.py
 Auto fuzz URLs to detect weaknesses (leading to additional vulnerabilities) and create screenshots.
 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+INSTALL/PRE-REQS:
+
+1. Install pip!
+apt-get install python-pip
+
+2. Install needed Python libs:
+pip install requests
+pip install pyvirtualdisplay
+pip install selenium
+
+
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Usage:<BR>
 <I>fuzzy-rabbit.py urls.txt</I>
 
@@ -11,6 +24,6 @@ http://mail.site3.com/login.php?<BR>
 
 Output images will be in the 'RESULTS' directory. Enjoy!
 
--theLostRabbit
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
 
