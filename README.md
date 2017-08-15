@@ -1,19 +1,21 @@
 # fuzzy-rabbit.py
 Auto fuzz URLs to detect weaknesses (leading to additional vulnerabilities) and create screenshots.
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-INSTALL/PRE-REQS:
-
-1. Install pip!
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
+INSTALL/PRE-REQS:<BR>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
+1. Install pip!<BR>
 apt-get install python-pip
 
-2. Install needed Python libs:
-pip install requests
-pip install pyvirtualdisplay
-pip install selenium
+2. Install needed Python libs:<BR>
+pip install requests<BR>
+pip install pyvirtualdisplay<BR>
+pip install selenium<BR>
 
-
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+<BR>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
+HOW TO USE:<BR>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
 Usage:<BR>
 <I>fuzzy-rabbit.py urls.txt</I>
 
@@ -22,8 +24,9 @@ http://www.site1.com/<BR>
 https://www.site2.com/username=<BR>
 http://mail.site3.com/login.php?<BR>
 
-Output images will be in the 'RESULTS' directory. Enjoy!
+Output images will be in the 'RESULTS' directory. Enjoy!<BR>
 
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+-theLostRabbit
+<BR><BR>
 
 
