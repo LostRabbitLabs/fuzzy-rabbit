@@ -17,7 +17,7 @@ git clone https://github.com/LostRabbitLabs/fuzzy-rabbit<BR>
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
 HOW TO USE:<BR>
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR><BR>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
 
 Usage:<BR>
 <I>fuzzy-rabbit.py urls.txt</I>
@@ -25,7 +25,7 @@ Usage:<BR>
 Where 'urls.txt' contains 1 URL per line (protocol included):<BR>
 http://www.site1.com/<BR>
 https://www.site2.com/username=<BR>
-http://mail.site3.com/login.php?<BR><BR>
+http://mail.site3.com/login.php?<BR>
 
 Output images will be in the 'RESULTS' directory. Enjoy!<BR>
 
