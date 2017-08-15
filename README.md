@@ -12,17 +12,21 @@ pip install requests<BR>
 pip install pyvirtualdisplay<BR>
 pip install selenium<BR>
 
-<BR>
+3. GIT CLONE the fuzzy-rabbit script/framework:
+git clone https://github.com/LostRabbitLabs/fuzzy-rabbit<BR>
+
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
 HOW TO USE:<BR>
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR><BR>
+
 Usage:<BR>
 <I>fuzzy-rabbit.py urls.txt</I>
-
+<BR><BR>
 Where 'urls.txt' contains 1 URL per line (protocol included):<BR>
 http://www.site1.com/<BR>
 https://www.site2.com/username=<BR>
-http://mail.site3.com/login.php?<BR>
+http://mail.site3.com/login.php?<BR><BR>
 
 Output images will be in the 'RESULTS' directory. Enjoy!<BR>
 
