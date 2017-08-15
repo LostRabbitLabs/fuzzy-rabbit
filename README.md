@@ -4,7 +4,7 @@ Auto fuzz URLs to detect weaknesses (leading to additional vulnerabilities) and 
 Usage:<BR>
 <I>fuzzy-rabbit.py urls.txt</I>
 
-Where 'urls.txt' contains 1 URL per line (protocol included):
+Where 'urls.txt' contains 1 URL per line (protocol included):<BR>
 http://www.site1.com/<BR>
 https://www.site2.com/username=<BR>
 http://mail.site3.com/login.php?<BR>
