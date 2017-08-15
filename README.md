@@ -15,7 +15,6 @@ pip install selenium<BR>
 3. GIT CLONE the fuzzy-rabbit script/framework:
 git clone https://github.com/LostRabbitLabs/fuzzy-rabbit<BR>
 
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
 HOW TO USE:<BR>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR><BR>
