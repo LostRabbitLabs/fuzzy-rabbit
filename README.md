@@ -28,7 +28,7 @@ cp geckodriver /usr/bin/geckdriver<BR>
 apt-get install iceweasel<BR>
 ** can now use apt-get install firefox<BR>
 
-5. GIT CLONE the fuzzy-rabbit script/framework:
+5. GIT CLONE the fuzzy-rabbit script/framework:<BR>
 git clone https://github.com/LostRabbitLabs/fuzzy-rabbit<BR>
 
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-<BR>
