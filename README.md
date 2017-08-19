@@ -44,9 +44,9 @@ Usage:<BR>
 <I>fuzzy-rabbit.py urls.txt</I>
 <BR><BR>
 Where 'urls.txt' contains 1 URL per line (protocol included):<BR>
-http://www.site1.com/<BR>
-https://www.site2.com/username=<BR>
-http://mail.site3.com/login.php?<BR>
+http://www.example.com/<BR>
+https://www.example.com/username=<BR>
+http://mail.example.com/login.php?<BR>
 
 Output images will be in the 'RESULTS' directory. Enjoy!<BR>
 
